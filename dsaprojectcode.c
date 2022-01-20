@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-//c
+
 struct node
 {
     int vertex;
