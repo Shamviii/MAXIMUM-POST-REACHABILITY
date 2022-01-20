@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-
+// comment
 struct node
 {
     int vertex;
